@@ -15,7 +15,8 @@ Air quality is measured with the Air Quality Index, or AQI. The AQI works like a
 Proposed Model for the AQI Application:
 
 The Proposed model of the system is as follows. The block diagram of the system is showing that for a particular area selected how will it work. The device will be set up to take the environmental data and there will be a base standard value. The device will collect data and based on the set values it will show the output. 
-![image](https://user-images.githubusercontent.com/86153443/122644351-68b20800-d132-11eb-8173-de52bd957f97.png)
+![image](https://user-images.githubusercontent.com/86153443/122644464-ed9d2180-d132-11eb-8cfe-eb8f621f629c.png)
+
 
 The 3 Layer Architecture![image](https://user-images.githubusercontent.com/86153443/122644364-723b7000-d132-11eb-847c-101dc97b651c.png)
 
