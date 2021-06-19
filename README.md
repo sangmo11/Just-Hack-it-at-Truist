@@ -36,3 +36,4 @@ What we tend to Achieve:
 
 
 For more detailed long description please refer the PPT.
+https://github.com/sangmo11/Just-Hack-it-at-Truist/raw/main/Air%20Pollution%20%26%20AQI.pptx
